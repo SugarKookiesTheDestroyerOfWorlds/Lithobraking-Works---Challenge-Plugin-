@@ -1,0 +1,21 @@
+Thank you for downloading my stupid plugin!
+Have Fun (or pain) Trying to beat this stupid challenge.
+
+Read instructions if you're not used to download KSP mods.
+
+Plugin was built around 1.12
+May still work on prior or future versions.
+
+INSTRUCTIONS OF INSTALATION:
+
+1. Find KSP in your Steam game browser.
+2. Right click and hover of "Manage," then click "Browse Local Files."
+3. Open the folder "Game Data."
+4. Unzip plugin folder and drag-drop into "Game Data."
+5. Run Game
+6. s u f f e r
+
+7. If they relase a new version, and it doesn't work. God help ya'. I'm not suffering through trying to remake this plugin with the utter lack of documantaion and my lack of coding experience in C#. I'm only really fluent in Lua
+8. WHY IS THERE NO RESOURCES FOR KSP MODDING?!?!?!?!? OTHER THEN THE HALF BAKED OFFICAL DOCUMANTION WHERE HALF OF THE FUNCTIONS HERE ARE MISSING INFOMATION ON WHAT THEY EVEN DO!!!!!! THIS IS LITERLY MY FIRST ATTEMPT TRYING TO CODE IN C#!
+9. Well, this turned into a rant. Thanks for downloading! 
+10. If anyone knows how to decompile KSP plugins, please don't look at my C# scripting. It's a mess. :/
