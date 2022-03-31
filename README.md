@@ -1,4 +1,4 @@
-# Lithobraking Works! (Challenge Plugin)
+# Lithobraking Works!? (Challenge Plugin)
  A really REALLY stupid KSP plugin that will make you suffer.
 
  Version 1.0 
